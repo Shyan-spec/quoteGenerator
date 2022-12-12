@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23d3fe42.css",
+    "main.js": "/static/js/main.a539cc7d.js",
+    "static/js/787.69ad31f5.chunk.js": "/static/js/787.69ad31f5.chunk.js",
+    "static/media/icons8-linkedin-2.svg": "/static/media/icons8-linkedin-2.4a91c8f61f4526c99bed3b7ff16885b1.svg",
+    "index.html": "/index.html",
+    "main.23d3fe42.css.map": "/static/css/main.23d3fe42.css.map",
+    "main.a539cc7d.js.map": "/static/js/main.a539cc7d.js.map",
+    "787.69ad31f5.chunk.js.map": "/static/js/787.69ad31f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d3fe42.css",
+    "static/js/main.a539cc7d.js"
+  ]
+}
